@@ -11,6 +11,8 @@ python3.8 -m venv venv
 pip install -r requirements.txt
 ```
 
+### Datasets are acquired from: [https://github.com/YeasirRayhanPrince/aist](AIST)
+
 ## Training
 
 To train AIST on 2019 'theft' data of Near North Side, Chicago, run this command:
