@@ -1,7 +1,5 @@
 # BIte CRIME: Bidirectional Interpretable Temporal Embedding Framework with GATv2 for Crime Prediction
 
-This repository contains the code for [BIte CRIME: Bidirectional Interpretable Temporal Embedding Framework with GATv2 for Crime Prediction](https://google.com/).
-
 ## Requirements
 
 To install requirements:
