@@ -11,7 +11,7 @@ python3.8 -m venv venv
 pip install -r requirements.txt
 ```
 
-### Datasets are acquired from: [https://github.com/YeasirRayhanPrince/aist](AIST)
+### Datasets are acquired from: [https://github.com/YeasirRayhanPrince/aist]
 
 ## Training
 
